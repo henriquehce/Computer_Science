@@ -1,1 +1,0 @@
-# Conteúdo 01 de SISTEMAS OPERACIONAIS
