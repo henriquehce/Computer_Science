@@ -1,0 +1,34 @@
+Alguns Comandos Úteis para Organização de Repositórios Git
+# 1. Acesse a pasta do seu repositório local
+cd /caminho/para/seu/repositorio
+
+# 2. (Opcional) Baixe as últimas atualizações do GitHub
+git pull origin main
+
+# 3. Crie uma pasta
+mkdir NOMEDAPASTA
+
+# 4. Entre na pasta recém criada
+cd NOMEDAPASTA
+
+# 5. (Opcional) Crie subpastas
+mkdir subpasta1 subpasta2
+
+# 6. (Opcional) Crie um arquivo em cada subpasta (para o Git versionar pastas vazias)
+echo > subpasta1/.gitkeep
+echo > subpasta2/.gitkeep
+
+# 7. Volte para a raiz do repositório, se precisar
+cd /caminho/para/seu/repositorio
+
+# 8. Veja o status das alterações
+git status
+
+# 9. Adicione as novas pastas e arquivos ao Git
+git add .
+
+# 10. Faça o commit das alterações
+git commit -m "Adiciona novas pastas e arquivos"
+
+# 11. Envie para o GitHub
+git push origin main
