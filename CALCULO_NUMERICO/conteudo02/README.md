@@ -1,1 +1,0 @@
-# Conteúdo 02 de CALCULO_NUMERICO
