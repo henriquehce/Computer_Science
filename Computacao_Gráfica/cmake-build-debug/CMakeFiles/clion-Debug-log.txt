@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\Syngoo\Downloads\ProjetoBase\ComputacaoGraficaPoligono\ComputacaoGrafica Select CMakeLists.txt

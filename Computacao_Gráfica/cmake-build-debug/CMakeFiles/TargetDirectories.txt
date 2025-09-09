@@ -1,0 +1,4 @@
+C:/Users/Syngoo/Downloads/ProjetoBase/ComputacaoGraficaPoligono/ComputacaoGrafica/cmake-build-debug/CMakeFiles/ProjetoBase.dir
+C:/Users/Syngoo/Downloads/ProjetoBase/ComputacaoGraficaPoligono/ComputacaoGrafica/cmake-build-debug/CMakeFiles/ComputacaoGrafica.dir
+C:/Users/Syngoo/Downloads/ProjetoBase/ComputacaoGraficaPoligono/ComputacaoGrafica/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Syngoo/Downloads/ProjetoBase/ComputacaoGraficaPoligono/ComputacaoGrafica/cmake-build-debug/CMakeFiles/rebuild_cache.dir
